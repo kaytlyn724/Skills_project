@@ -1,3 +1,4 @@
+// this comment is from main
 function playGame(playerChoice) {
     const choices = ['rock', 'paper', 'scissors'];
     const computerChoice = choices[Math.floor(Math.random() * choices.length)];
