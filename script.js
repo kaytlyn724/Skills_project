@@ -1,3 +1,4 @@
+// adding a comment in the same place as main
 function playGame(playerChoice) {
     const choices = ['rock', 'paper', 'scissors'];
     const computerChoice = choices[Math.floor(Math.random() * choices.length)];
